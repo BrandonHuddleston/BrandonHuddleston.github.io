@@ -1,2 +1,2 @@
-# BrandonHuddleston.github.io
-Personal Repo
+# BioPage
+Bio Page
